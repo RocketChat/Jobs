@@ -1,9 +1,11 @@
-Space for posting job opportunities that are open at Rocket.Chat via Github issues.
+# Rocket.Chat Job Opportunities
 
-Note that:
--Main resource to check Rocket.Chat open positions and where we expect to have latest details and information is https://www.rocket.chat/jobs 
--Each open position is shared as an Issue. If you are interested please make sure to access the link that is provided on each position and submit your application from there. 
--We opened this repo just to generate awareness as we understand potential candidates for our internal positions might be using github more than other tools. 
--All rules and code of conduct that applies to our main repo are also applicable here. 
+This repository is dedicated to posting job opportunities for Rocket.Chat via GitHub issues.
 
-License MIT
+**Note:**
+- The main resource to check Rocket.Chat open positions with the latest details and information is [Rocket.Chat Jobs](https://www.rocket.chat/jobs).
+- Each open position is shared as a GitHub Issue. If you are interested, please use the provided link in the Issue to submit your application.
+- We opened this repository to generate awareness, as we understand potential candidates for our internal positions might be using GitHub more than other tools.
+- All rules and the code of conduct that apply to our main repository are also applicable here.
+
+**License:** MIT
